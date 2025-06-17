@@ -1,1 +1,1 @@
-# ai-kickstart-kit
+# ai-coding-kickstart
